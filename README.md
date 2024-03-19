@@ -8,7 +8,7 @@
 ### 2. 구현된 각 화면 설명
 - 메인화면 <home.jsp>
 <img width="560" alt="메인화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/c8eefcac-88e0-4432-9542-7d1c5af13aef">
-
+&nbsp; 
 
 - 길 찾기 화면 <portal.jsp>
 <img width="539" alt="길찾기화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/6ab89814-30ac-4941-acb8-a46f040277a9">
