@@ -2,7 +2,7 @@
 
 ### 1. 사이트 맵이 포함된 스토리 보드
 <img width="380" alt="스토리보드" src="https://github.com/eesoomiin/Web-programming/assets/127471190/b687e509-1a5e-4fc9-a9d1-82d5491b351a">
-
+&nbsp; 
 ---
 ### 2. 구현된 각 화면 설명
 - 메인화면 <home.jsp>
