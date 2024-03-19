@@ -1,7 +1,7 @@
 # 동국대 캠퍼스 지름길 찾기 웹사이트 Dongji 🐘
 
 ### 1. 사이트 맵이 포함된 스토리 보드
-<img width="380" alt="스토리보드" src="https://github.com/eesoomiin/Web-programming/assets/127471190/b687e509-1a5e-4fc9-a9d1-82d5491b351a">
+<img width="400" alt="스토리보드" src="https://github.com/eesoomiin/Web-programming/assets/127471190/b687e509-1a5e-4fc9-a9d1-82d5491b351a">
 <br/><br/>
 
 ---
@@ -31,13 +31,13 @@
 <br/><br/>
 
 - 게시판 목록 화면 <bbs.jsp>
-<img width="807" alt="게시판 목록 화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/799a9fbc-1c9c-46c0-acad-62240297b5a6">
+<img width="814" alt="게시판 목록 화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/799a9fbc-1c9c-46c0-acad-62240297b5a6">
 <br/><br/>
 
 - 게시판 글작성 화면 <write.jsp>
-<img width="819" alt="게시판 글작성 화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/419203ae-ee9f-4fa0-b855-69d5af8eff21">
+<img width="814" alt="게시판 글작성 화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/419203ae-ee9f-4fa0-b855-69d5af8eff21">
 <br/><br/>
 
 - 게시판 글보기 화면 <view.jsp>
-<img width="821" alt="게시판 글보기 화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/01f13986-f9da-44c1-af5d-e24e560244db">
+<img width="814" alt="게시판 글보기 화면" src="https://github.com/eesoomiin/Web-programming/assets/127471190/01f13986-f9da-44c1-af5d-e24e560244db">
 <br/><br/>
