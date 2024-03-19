@@ -1,5 +1,5 @@
 # 동국대 캠퍼스 지름길 찾기 웹사이트 Dongji 🐘
-
+<br/>
 ### 1. 사이트 맵이 포함된 스토리 보드
 <img width="380" alt="스토리보드" src="https://github.com/eesoomiin/Web-programming/assets/127471190/b687e509-1a5e-4fc9-a9d1-82d5491b351a">
 
